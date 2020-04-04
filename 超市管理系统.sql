@@ -14,7 +14,7 @@ img varchar(50),
 delmark int DEFAULT 1
 );
 
-insert into User values("1","z001",'陈龙',"0.00.0",'666666',"0","static\\userimg\\u1.png","1");
+insert into User values(null,"z001","陈龙","0.00.0",'666666',"0","static\\userimg\\u1.png","1");
 insert into User values("2","a001",'吴鸿发',"0.00.0",'666666',"1","static\\userimg\\u2.png","1");
 insert into User values("3","a002",'刘锦生',"0.00.0",'666666',"1","static\\userimg\\u3.png","1");
 insert into User values("4","b001",'陆伟逊',"0.00.0",'666666',"2","static\\userimg\\u4.png","1");
