@@ -47,7 +47,7 @@ public class inRecordServiceImpl implements inRecordService{
 
 	@Override
 	public Vector<InRecord> findByIdinRecord(String iNumber) {
-		InRecord inRecord = new InRecord();
+		InRecord inRecord;
 		Vector<InRecord> v = new Vector<InRecord>();
 		Connection conn = JDBCUtil.getConn();
 		PreparedStatement preparedStatement = null;
@@ -58,6 +58,7 @@ public class inRecordServiceImpl implements inRecordService{
 			preparedStatement.setString(1, iNumber);
 			resultSet = preparedStatement.executeQuery();
 			while(resultSet.next()) {
+				inRecord = new InRecord();
 				inRecord.setiNumber(resultSet.getString("iNumber"));
 				inRecord.setId(resultSet.getString("id"));
 				inRecord.setSum(resultSet.getInt("sum"));
