@@ -22,11 +22,9 @@
 ### 添加进货
 
 <div align=center><img src=images/进货添加进货.jpg/></div>
-
 ### 更改进货数量
 
 <div align=center><img src=images/进货修改数量.jpg/></div>
-
 ### 确认进货订单&发送进货邮件
 
 <div align=center>
@@ -42,7 +40,6 @@
 没有用到表格或html，只是字符串排版
 
 <div align=center><img src=images/进货邮件内容.jpg/></div>
-
 ### 更改进货订单状态
 
 模拟当进货成功后，==修改订单状态==为已入库或者已取消，如果已入库后库存数量会自动增加
@@ -70,11 +67,9 @@
 ### 添加商品
 
 <div align=center><img src=images/收银添加商品.jpg/></div>
-
 ### 库存不够提示
 
 <div align=center><img src=images/收银库存不够.jpg/></div>
-
 ### 收银结账&支付成功
 
 <div align=center>
@@ -90,13 +85,11 @@
 <div align=center><img src=images/收银成功首页.jpg/></div>
 
 
-
 ## 商品库存
 
 ### 总览
 
 <div align=center><img src=images/商品库存.jpg/></div>
-
 ### 库存日志
 
 #### 进货库存日志
@@ -124,11 +117,9 @@
 <div align=center><img src=images/供应商.jpg/></div>
 
 
-
 ## 商品目录
 
 <div align=center><img src=images/商品目录.jpg/></div>
-
 
 
 ## 联系
