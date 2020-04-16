@@ -7,7 +7,7 @@
 
 权限0为超管，1为收货员，2为进货员
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/人员管理.jpg/></div>
+<div align=center><img src=images/人员管理.jpg/></div>
 
 ## 进货系统
 
