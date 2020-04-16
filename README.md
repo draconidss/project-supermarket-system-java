@@ -3,7 +3,7 @@
 
 ## 首页
 
-![](images/首页.jpg)
+<div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg" /></div>
 
 ## 人员管理
 
