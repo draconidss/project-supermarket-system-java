@@ -3,7 +3,7 @@
 
 ## 首页
 
-<div align=center><img src=images/首页.jpg/></div>
+![](images/首页.jpg)
 
 ## 人员管理
 
