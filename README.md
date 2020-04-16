@@ -1,7 +1,7 @@
 <div align=center><img src=images/logo.png/></div>
 ## 首页
 
-![](https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg)
+<div align=center><img src=images/首页.jpg/></div>
 
 ## 人员管理
 
@@ -23,19 +23,19 @@
 
 ### 添加进货
 
-<div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货添加进货.jpg" /></div>
+<div align=center><img src="images/进货添加进货.jpg" /></div>
 
 ### 更改进货数量
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货修改数量.jpg/></div>
+<div align=center><img src=images/进货修改数量.jpg/></div>
 
 ### 确认进货订单&发送进货邮件
 
 <div align=center>
   <table>
     <tr>
-  <img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货确认订单.jpg/>
-	<img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货发送邮件.jpg/>
+  <img width="50%" src=images/进货确认订单.jpg/>
+	<img width="50%" src=images/进货发送邮件.jpg/>
     </tr></table>
 </div>
 
@@ -43,7 +43,7 @@
 
 没有用到表格或html，只是简单的字符串排版
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货邮件内容.jpg/></div>
+<div align=center><img src=images/进货邮件内容.jpg/></div>
 
 ### 更改进货订单状态
 
@@ -52,8 +52,8 @@
 <div align=center>
   <table>
     <tr>
-  <img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货更改订单状态.jpg/>
-	<img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货库存更新成功.jpg/>
+  <img width="50%" src=images/进货更改订单状态.jpg/>
+	<img width="50%" src=images/进货库存更新成功.jpg/>
     </tr></table>
 </div>
 
@@ -71,31 +71,31 @@
 
 ### 添加商品
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银添加商品.jpg/></div>
+<div align=center><img src=images/收银添加商品.jpg/></div>
 
 ### 库存不够提示
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银库存不够.jpg/></div>
+<div align=center><img src=images/收银库存不够.jpg/></div>
 
 ### 收银结账&支付成功
 
 <div align=center>
   <table>
     <tr>
-  <img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银结账.jpg/>
-	<img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银支付成功.jpg/>
+  <img width="50%" src=images/收银结账.jpg/>
+	<img width="50%" src=images/收银支付成功.jpg/>
     </tr></table>
 </div>
 
 ### 首页更新
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银成功首页.jpg/></div>
+<div align=center><img src=images/收银成功首页.jpg/></div>
 
 ## 商品库存
 
 ### 总览
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/商品库存.jpg/></div>
+<div align=center><img src=images/商品库存.jpg/></div>
 
 ### 库存日志
 
@@ -104,8 +104,8 @@
 <div align=center>
   <table>
     <tr>
-  <img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/库存进货记录.jpg/>
-	<img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货订单详情.jpg/>
+  <img width="50%" src=images/库存进货记录.jpg/>
+	<img width="50%" src=images/进货订单详情.jpg/>
     </tr></table>
 </div>
 
@@ -114,18 +114,18 @@
 <div align=center>
   <table>
     <tr>
-  <img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/库存收银记录.jpg/>
-	<img width="50%" src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银订单详情.jpg/>
+  <img width="50%" src=images/库存收银记录.jpg/>
+	<img width="50%" src=images/收银订单详情.jpg/>
     </tr></table>
 </div>
 
 ## 供应商
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/供应商.jpg/></div>
+<div align=center><img src=images/供应商.jpg/></div>
 
 ## 商品目录
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/商品目录.jpg/></div>
+<div align=center><img src=images/商品目录.jpg/></div>
 
 ## 联系
 
