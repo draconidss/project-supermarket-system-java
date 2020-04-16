@@ -1,18 +1,18 @@
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/logo.png"/></div>
 
-## 首页
+## 首页home
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg" /></div>
 
 
-## 人员管理
+## 人员管理manage
 
 权限0为超管，1为收货员，2为进货员
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/人员管理.jpg"/></div>
 
 
-## 进货系统
+## 进货系统import
 
 这里在添加要进货物时偷了懒只有选择编号加入。右上角添加按钮即可添加要进的货，右下角第一个按钮就是确认进货，点击后会发送邮件给相应的仓库，公司等，这里只是模拟。
 
@@ -69,7 +69,7 @@
 
 
 
-## 收银系统
+## 收银系统cashier
 
 也是没扫描机器，所以只能模拟。
 
@@ -108,7 +108,7 @@
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银成功首页.jpg"/></div>
 
 
-## 商品库存
+## 商品库存storage
 
 ### 总览
 
@@ -141,17 +141,17 @@
 
 
 
-## 供应商
+## 供应商supplier
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/供应商.jpg"/></div>
 
 
-## 商品目录
+## 商品目录catalog
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/商品目录.jpg"/></div>
 
 
-## 联系
+## 联系contact
 
 email：1138312802@qq.com
 
@@ -159,7 +159,7 @@ wechat：a1138312802
 
 
 
-## 写在最后
+## 写在最后last
 
   这个项目是几个人一组做的。前端用的是java本身的窗口那些类JModel,JTable,JPanel等，首先难看，其次也不好写。当时想着山不在高，有仙则灵，先把核心功能实现再说，然后到后面时间有限和肝不动了遂只能这样。结束后想优化前端和后台逻辑的时候却发现里面很乱遂不了了之。每次看到这个作品都在警示着我要加强大局观和撸代码的素养(又或许是开发经验不足吧)。
 
