@@ -23,7 +23,7 @@
 
 ### 添加进货
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货添加进货.jpg/></div>
+<div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货添加进货.jpg" /></div>
 
 ### 更改进货数量
 
