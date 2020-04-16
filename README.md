@@ -1,7 +1,7 @@
 <div align=center><img src=images/logo.png/></div>
 ## 首页
 
-<div align=center><img src=https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg/></div>
+![](https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg)
 
 ## 人员管理
 
@@ -137,5 +137,5 @@ wechat：a1138312802
 
 ## 写在最后
 
-前端用的是java本身的窗口那些类JModel,JTable等，首先难看，其次也不好写，而且前后端交叉在一起，你中有我，我中有你:sob:， 遂这个项目的前端后端都不再去改动或者优化。不过里面的后台逻辑倒是以后能给我做其它项目以启发。最后真的想说句，真的不能用java写窗口，真的好球乱啊啊啊！！
+前端用的是java本身的窗口那些类JModel,JTable等，首先难看，其次也不好写，而且前后端交叉在一起，可以说你中有我，我中有你:sob:， 遂这个项目的前端后端都不再去改动或者优化。不过里面的后台逻辑倒是以后能给我做其它项目以启发。最后真的想说句，真的不能用java写窗口，真的好球乱啊啊啊！！
 
