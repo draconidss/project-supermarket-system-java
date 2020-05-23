@@ -1,16 +1,24 @@
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/logo.png"/></div>
 
+## 写在前面
+
+初次引入可能会报错，所以食用前请重新引入好三个jar包，都在lib目录下
+
+![](https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/build.jpg)
+
+还有记得修改config/jdbc.properties里面连接mysql数据库的属性值为自己的。
+
+项目的运行入口在**com.lingnan.supermarket.view/LoginView.java**下
+
 ## 首页home
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/首页.jpg" /></div>
-
 
 ## 人员管理manage
 
 权限0为超管，1为收货员，2为进货员
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/人员管理.jpg"/></div>
-
 
 ## 进货系统import
 
@@ -30,11 +38,9 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货添加进货.jpg"/></div>
 
-
 ### 更改进货数量
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货修改数量.jpg"/></div>
-
 
 ### 确认进货订单&发送进货邮件
 
@@ -53,7 +59,6 @@
 没有用到表格或html，只是简单的字符串排版
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/进货邮件内容.jpg"/></div>
-
 
 ### 更改进货订单状态
 
@@ -85,11 +90,9 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银添加商品.jpg"/></div>
 
-
 ### 库存不够提示
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银库存不够.jpg"/></div>
-
 
 ### 收银结账&支付成功
 
@@ -107,13 +110,11 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/收银成功首页.jpg"/></div>
 
-
 ## 商品库存storage
 
 ### 总览
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/商品库存.jpg"/></div>
-
 
 ### 库存日志
 
@@ -145,11 +146,9 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/供应商.jpg"/></div>
 
-
 ## 商品目录catalog
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/商品目录.jpg"/></div>
-
 
 ## 联系contact
 
