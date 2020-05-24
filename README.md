@@ -1,5 +1,7 @@
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/logo.png"/></div>
 
+
+
 ## 写在前面
 
 初次引入可能会报错，所以食用前请重新引入好三个jar包，都在lib目录下
@@ -18,15 +20,30 @@
 
 整个项目的运行入口在**com.lingnan.supermarket.view/LoginView.java**下即main函数放的地方
 
+
+
+## 工具&环境tools
+
+> - 数据库：Mysql5.7
+> - java环境：Java1.8
+> - 编辑器：Eclipse
+> - 服务器：Tomcat8
+
+
+
 ## 首页home
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/首页.jpg" /></div>
+
+
 
 ## 人员管理manage
 
 权限0为超管，1为收货员，2为进货员
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/人员管理.jpg"/></div>
+
+
 
 ## 进货系统import
 
@@ -118,6 +135,8 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/收银成功首页.jpg"/></div>
 
+
+
 ## 商品库存storage
 
 ### 总览
@@ -154,9 +173,13 @@
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/供应商.jpg"/></div>
 
+
+
 ## 商品目录catalog
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/商品目录.jpg"/></div>
+
+
 
 ## 联系contact
 
