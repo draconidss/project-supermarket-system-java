@@ -6,9 +6,17 @@
 
 ![](https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/build.jpg)
 
-还有记得修改config/jdbc.properties里面连接mysql数据库的属性值为自己的。
+其它修改
 
-项目的运行入口在**com.lingnan.supermarket.view/LoginView.java**下
+> 1. 修改config/jdbc.properties里面连接mysql数据库的属性值为自己的。
+>
+> 2. 进货功能的邮件发送方面，调用的类为**com.lingnan.supermarket.util/SendQQMailUtil.java**，在**com.lingnan.supermarket.view/InView.java**下调用，如图，照着SendQQMailUtil.java的属性修改即可，前提要开通QQEmail的SMTP服务(自行百度),调用位置如图
+>
+>    ![](https://cdn.jsdelivr.net/gh/lifealsoisgg/SupermarketSystem-Homework/images/sendEmail.jpg)
+
+
+
+整个项目的运行入口在**com.lingnan.supermarket.view/LoginView.java**下即main函数放的地方
 
 ## 首页home
 
