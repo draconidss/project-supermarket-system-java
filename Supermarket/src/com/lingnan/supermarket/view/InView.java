@@ -486,7 +486,7 @@ public class InView extends JPanel implements ActionListener{
 							CreateOrder createOrder = new CreateOrder();
 							String OrderText = createOrder.CreateOrder(v, s[0], s[1], allPrice,uname);
 							try {/*发送邮件*/
-								SendQQMailUtil QQEmail = new SendQQMailUtil("1138312802@qq.com","btehvyazdoveiidg","1138312802@qq.com","@新民超市进货需求申请",OrderText);
+								SendQQMailUtil QQEmail = new SendQQMailUtil("1138312802@qq.com","自行获取QQ邮箱SMTP密码","1138312802@qq.com","@新民超市进货需求申请",OrderText);
 							} catch (MessagingException e1) {
 								// TODO Auto-generated catch block
 								e1.printStackTrace();
