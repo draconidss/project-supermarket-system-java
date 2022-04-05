@@ -465,7 +465,7 @@ public class InView extends JPanel implements ActionListener{
 						JOptionPane.showMessageDialog(null,"您的进货页面为空", "提示", JOptionPane.YES_OPTION);	
 					}
 					else {/*购物车不为空*/
-						int res = JOptionPane.showConfirmDialog(null,"进价总金额:"+allPrice+"元\r\n负责人:"+uname+"\r\n发送邮件至1138312802@qq.com", "提交订单", JOptionPane.YES_NO_OPTION);
+						int res = JOptionPane.showConfirmDialog(null,"进价总金额:"+allPrice+"元\r\n负责人:"+uname+"\r\n发送邮件至 re@qq.com", "提交订单", JOptionPane.YES_NO_OPTION);
 						if(res==JOptionPane.YES_OPTION)/*如果已经结账*/{
 							
 							/*获得时间和订单号,s[0]为订单号,s[1]为时间*/
@@ -486,7 +486,7 @@ public class InView extends JPanel implements ActionListener{
 							CreateOrder createOrder = new CreateOrder();
 							String OrderText = createOrder.CreateOrder(v, s[0], s[1], allPrice,uname);
 							try {/*发送邮件*/
-								SendQQMailUtil QQEmail = new SendQQMailUtil("1138312802@qq.com","自行获取QQ邮箱SMTP密码","1138312802@qq.com","@新民超市进货需求申请",OrderText);
+								SendQQMailUtil QQEmail = new SendQQMailUtil("sender@qq.com","自行获取 SMTP 授权码","receiver@qq.com","@新民超市进货需求申请",OrderText);
 							} catch (MessagingException e1) {
 								// TODO Auto-generated catch block
 								e1.printStackTrace();
