@@ -14,7 +14,7 @@
 >
 > 2. 进货功能的邮件发送方面，调用的类为**com.lingnan.supermarket.util/SendQQMailUtil.java**，在**com.lingnan.supermarket.view/InView.java**下调用，如图，照着SendQQMailUtil.java的属性修改即可，前提要开通QQEmail的SMTP服务(自行百度),调用位置如图。**请务必使用自己的SMTP服务方便邮件的发送与接收，如果你实在要用我的请务必将收件人邮箱改为自己的，否则你这边是看不到邮件是否发送成功(修改下面第三个参数的邮箱为自己的即可)！！！**
 >
->    ![](https://cdn.jsdelivr.net/gh/lifealsoisgg/MyProject-SupermarketSystem/images/sendEmail.jpg)
+>    ![image](https://user-images.githubusercontent.com/52524117/161801771-879d0e13-7133-4efb-94a6-d1c0efb3c608.png)
 
 
 
