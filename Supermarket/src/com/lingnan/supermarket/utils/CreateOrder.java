@@ -19,8 +19,8 @@ public class CreateOrder {
 		InRequireText+="#总进货金额:"+allPrice+"元";
 		InRequireText+="\r\n#负责人:"+username;
 		InRequireText+="\r\n#订单编号:"+oNumber;
-		InRequireText+="\r\n#地址:广东省湛江市赤坎区岭南师范学院新民超市";
-		InRequireText+="\r\n#联系电话:15322533185";
+		InRequireText+="\r\n#地址:新民超市";
+		InRequireText+="\r\n#联系电话:xxx";
 		
 		return InRequireText;
 	}
